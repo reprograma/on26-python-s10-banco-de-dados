@@ -10,6 +10,13 @@ Se quiser olhar a plataforma Kaggle e adiantar o desafio da semana, ótimo!!! �
 
 https://www.kaggle.com/
 
+Desafio da semana
+- Realizar as operações de:
+    - leitura
+    - adição
+    - edição
+    - Desafio Extra: deleção
+
 ---
 
 Terminou o exercício? Dá uma olhada nessa checklist e confere se tá tudo certinho, combinado?!
