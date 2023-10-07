@@ -2,7 +2,7 @@
 
 ## Manipulando banco de dados:
 
-- Explicação do exercício:
+- Explicação do exercício: Esse é apenas um treinamento...
 - Acessar o site do Sqlite : https://sqliteonline.com/
 Digitar esses comandos diretamente no site
 

@@ -3,10 +3,12 @@
 ## Treinar novos bancos 💻
 
 - Explicação do exercício: Através do conteúdo que foi visto em sala, vamos criar um novo banco à sua escolha.
+
 Traga na segunda pra gente validar juntas, ok? ⏳
 
 Se quiser olhar a plataforma Kaggle e adiantar o desafio da semana, ótimo!!! 🥰
 
+https://www.kaggle.com/
 
 ---
 
