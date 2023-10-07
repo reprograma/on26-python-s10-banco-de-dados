@@ -2,9 +2,9 @@
   <img src="assets/reprograma-fundos-claros.png" alt="logo reprograma" width="500">
 </h1>
 
-# Tema da Aula
+# Banco de Dados 🎲
 
-Turma Online X | X-end | Semana X | 202X | Professora X
+Turma Online 26 |Python | Semana 10 | 2023 | Professora Edilene Lopes
 
 ### Instruções
 Antes de começar, vamos organizar nosso setup.
@@ -15,50 +15,73 @@ Antes de começar, vamos organizar nosso setup.
 
 ### Resumo
 O que veremos na aula de hoje?
-* [Tema1](#tema1)
-* [Tema2](#tema2)
-* [Tema3](#tema3)
+* [Banco de dados](#tema1)
+* [Conectando com Python](#tema2)
+* [Migrar um arquivo via Sqlite](#tema3)
 
 ## Conteúdo
 ### Tema1 
-1. [Tópico 1](#topico1)
-2. [Tópico 2](#topico2)
+1. [O que é banco de dados](#tema1)
+2. [Sql NoSql](#topico2)
+3. [Tabelas](#topico3)
+4. [Chave Primária](#topico4)
+5. [Comandos Sql](#topico5)
+
 ### Tema2 
-1. [Tópico 3](#topico3)
-   * [Subtópico 1](#subtopico1)
-   * [Subtópico 2](#subtopico2)
+2. [Conectando o banco de dados com Python](#tema2)
+   * [Manipulando o banco via python](#subtopico)
+  
    
 ### Tema3
-1. [Tópico 4](#topico4)
+3. [Migrar um arquivo csv](#topico1)
 
-### Tema1 
+### Banco de dados 
 
-#### Topico1
+#### O que é um banco de dados
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. Mauris pharetra dui quis turpis rutrum blandit. Nunc tempor libero tortor, ac commodo erat porttitor ut. Donec vitae orci arcu. Nunc felis mi, maximus a turpis a, mollis pulvinar enim. Vivamus aliquam ante dui, a blandit massa rutrum et. Etiam hendrerit gravida ultrices. Nunc ante massa, dictum eget justo eget, feugiat tincidunt metus.
+É um conjunto de informações que são organizadas em uma estrutura específica para permitir seu armazenamento e recuperação de maneira eficiente. Ele pode ser utilizado em diversos tipos de sistemas, desde aplicações simples até sistemas complexos de grande porte.
+Os primeiros fundamentos de banco de dados relacionais surgiram entre as décadas de 1960 a 1970 pela IBM. Na década de 80, a Oracle, com a permissão da IBM, foi a primeira empresa a desenvolver o banco utilizando o padrão SQL para consulta/escrita como é  conhecido hoje. 
+Após a explosão da web, também conhecida como web 2.0, foi necessário uma alternativa  ao SQL(relacional), assim, a partir de 1998, foi criado o conceito de banco nosql( não relacional ).
 
- #### Topico2
-  - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  - Donec erat mauris, laoreet in tortor vel
-  - Nunc ante massa, dictum eget justo eget, feugiat tincidunt.
+ #### Conectando com Python
+- import sqlite3
+- conn = sqlite3.connect('meu_banco_de_dados.db')
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. Mauris pharetra dui quis turpis rutrum blandit.
 
-### Tema2
-#### Topico3
-* [Subtópico 1](#subtopico1)
-* [Subtópico 2](#Subtopico2)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel.
+![Exemplo](exemplo.jpg)
 
-##### Subtopico1
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel.
+### Tabelas e tipos de dados
+#### Comandos SQL
+* [Tipos de comandos](#subtopico1)
+* [Alguns comandos Sql](#Subtopico2)
 
-##### Subtopico2
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel.
 
-### Tema3
-#### Topico4
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempus sed rhoncus et, ultrices vitae orci. Donec erat mauris, laoreet in tortor vel, eleifend suscipit nibh. Mauris pharetra dui quis turpis rutrum blandit. Nunc tempor libero tortor, ac commodo erat porttitor ut. Donec vitae orci arcu. Nunc felis mi, maximus a turpis a, mollis pulvinar enim. Vivamus aliquam ante dui, a blandit massa rutrum et. Etiam hendrerit gravida ultrices.
+##### Tipos de comandos Sql
+DDL, DQL, DML, DCL e TCL.
+
+![Tipos](tipos_ling.png)
+
+##### Alguns comnandos Sql
+- SELECT
+
+- UPDATE
+
+- DELETE
+
+- INSERT
+
+- WHERE
+
+
+### Conexão com Python
+#### Alguns métodos Python
+- cursor = conn.cursor()
+- cursor.execute()
+- conn.commit()
+- conn.close()
+
+
+
 
 ***
 ### Exercícios 
@@ -68,10 +91,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam leo nibh, tempu
 ### Material da aula 
 
 ### Links Úteis
-- [Lorem Ipsum](https://www.lipsum.com/feed/html)
-- [Lorem Ipsum](https://www.lipsum.com/feed/html)
-- [Lorem Ipsum](https://www.lipsum.com/feed/html)
-- [Lorem Ipsum](https://www.lipsum.com/feed/html)
+- [Banco de dados teoria](https://www.oracle.com/br/database/what-is-database/)
+- [Banco de dados teoria](https://rockcontent.com/br/blog/banco-de-dados/)
+- [Sqlite online](https://sqliteonline.com/)
+- [Visualizar sqlite no vscode](https://www.youtube.com/watch?v=bzxZsRPpFQs)
+- [Plataforma Kaggle](https://www.kaggle.com/)
 
 
 <p align="center">
