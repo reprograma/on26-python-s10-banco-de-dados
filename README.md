@@ -85,8 +85,8 @@ DDL, DQL, DML, DCL e TCL.
 
 ***
 ### Exercícios 
-* [Exercicio para sala](https://github.com/mflilian/repo-example/tree/main/exercicios/para-sala)
-* [Exercicio para casa](https://github.com/mflilian/repo-example/tree/main/exercicios/para-casa)
+* [Exercicio para sala](https://github.com/reprograma/on26-python-s10-banco-de-dados/tree/main/exercicios/para-sala)
+* [Exercicio para casa](https://github.com/reprograma/on26-python-s10-banco-de-dados/tree/main/exercicios/para-casa)
 
 ### Material da aula 
 
