@@ -19,7 +19,7 @@ cursor.execute("CREATE TABLE IF NOT EXISTS aeroportos(\
                Lounge TEXT)")
 
 #abrindo arquivo csv
-file = open("Airport-Pets.csv")
+file = open('Airport-Pets.csv')
 
 #lendo arquivo csv
 conteudo = csv.reader(file)
@@ -32,13 +32,13 @@ banco.execute('INSERT INTO aeroportos(Zip, City, State, Division, Parking, Pets,
 banco.execute('INSERT INTO aeroportos(Zip, City, State, Division, Parking, Pets, Food, Lounge) VALUES(99173, "Costa Rica", "CR", "Pacific", "Y" , "Y", "Y", "N")')
 
 #editando informações
-banco.execute('''UPDATE aeroportos SET (City = "Paris", State = "PAR" WHERE City = "França", State = "FC")''')
-#UPDATE clientes SET bloqueado
-
+banco.execute('UPDATE aeroportos SET City = "Paris" WHERE City = "França"')
+banco.execute('UPDATE aeroportos SET State = "PAR" WHERE State = "FC"')
+banco.execute('UPDATE aeroportos SET City = "São Paulo" WHERE City = "Brasil"')
+banco.execute('UPDATE aeroportos SET State = "SP" WHERE State = "BS"')
 
 #apagando dados
-#DELETE FROM clientes WHERE id=4;
-
+cursor.execute('DELETE from aeroportos WHERE division = "Mid-Atlantic"')
 
 selecionar_tudo = "SELECT * FROM aeroportos"
 entradas = cursor.execute(selecionar_tudo).fetchall
