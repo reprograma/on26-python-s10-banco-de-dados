@@ -24,8 +24,8 @@ criar_tabela = '''CREATE TABLE passageiros (
 # Executa o comando SQL para criar a tabela
 cursor.execute(criar_tabela)
 
-# Abre o arquivo CSV para leitura
-file = open("listapassg - tested.csv")
+# Executa o comando SQL para criar a tabela
+cursor.execute(criar_tabela)
 
 # Lê o conteúdo do arquivo CSV
 conteudo = csv.reader(file)
