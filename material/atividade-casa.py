@@ -15,21 +15,21 @@ cursor = banco.cursor()
 # Food TEXT NOT NULL,
 # Lounge TEXT NOT NULL               )''')
 
-# file = open('Airport-Pets.csv')
-# conteudo = csv.reader(file)
+file = open('Airport-Pets.csv')
+conteudo = csv.reader(file)
 
-# inserir_conteudo = "INSERT INTO pets_airport (Zip, City, State, Division, Parking, Pets, Food, Lounge) VALUES (?, ?, ?, ?, ?, ?, ?, ?)"
+inserir_conteudo = "INSERT INTO pets_airport (Zip, City, State, Division, Parking, Pets, Food, Lounge) VALUES (22345, 'Rio de Janeiro', 'Rio de Janeiro', 'X', 'Y', 'N', 'Y', 'Y')"
 
-# cursor.executemany(inserir_conteudo, conteudo)
+cursor.execute(inserir_conteudo)
 
 """Função para adicionar uma linha por vez na tabela"""
-def adicionar(informacoes):
-    adicao_de_item = cursor.execute(informacoes)
-    return adicao_de_item
+#def adicionar(informacoes):
+    #adicao_de_item = cursor.execute(informacoes)
+    #return adicao_de_item
 
 
-aero_LA = "INSERT INTO pets_airport VALUES (857, 67011, 'Los Angeles', 'CA', 'Pacific', 'Y', 'Y', 'N', 'N')"
-adicionar(aero_LA)
+#aero_LA = "INSERT INTO pets_airport VALUES (857, 67011, 'Los Angeles', 'CA', 'Pacific', 'Y', 'Y', 'N', 'N')"
+#adicionar(aero_LA)
 
 selecionar_tudo = "SELECT * FROM  pets_airport"
 entradas = cursor.execute(selecionar_tudo).fetchall()
