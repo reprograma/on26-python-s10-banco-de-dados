@@ -25,5 +25,7 @@ cursor.executemany(inserir_conteudo, conteudo)
 selecionar_tudo = "SELECT * FROM aeroportos"
 entradas = cursor.execute(selecionar_tudo).fetchall();
 
+# a linha para remover é cursor.execute("DELETE * FROM aeroportos")
+
 banco.commit();
 banco.close();
