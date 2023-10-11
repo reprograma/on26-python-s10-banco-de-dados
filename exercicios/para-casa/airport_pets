@@ -1,0 +1,68 @@
+import sqlite3
+import csv
+banco = sqlite3.connect("Airport_Pets.db") 
+cursor = banco.cursor()
+
+
+cursor.execute('''CREATE TABLE IF NOT EXISTS passageiros(id INTEGER PRIMARY KEY AUTOINCREMENT,\
+Zip FLOAT NOT NULL,\
+City TEXT,\
+State TEXT,\
+Division TEXT,\
+Parking TEXT, \
+Pets TEXT, \
+Foods TEXT, \
+Lounge TEXT)''')
+
+file = open("Airport_Pets.csv")
+
+conteudo = csv.reader(file)
+
+inserir_conteudo = "INSERT INTO passageiros  (Zip, City, State, Division, Parking, Pets, Foods, Lounge) VALUES (?, ?, ?, ?, ?, ?, ?, ?)"
+
+cursor.executemany(inserir_conteudo, conteudo)
+
+selecionar_tudo = "SELECT * FROM passageiros"
+entradas = cursor.execute(selecionar_tudo).fetchall();
+
+banco.commit();
+banco.close();
+
+
+# #função para excluir um item
+# def excluir_registro(id_registro):
+#     banco = sqlite3.connect('Airport_Pets2.db')
+#     cursor = banco.cursor ()
+    
+# #     # Define a consulta SQL para excluir um registro com base no ID do registro.
+#     excluir_conteudo = "DELETE FROM passageiros WHERE id = ?"
+    
+# #     # Executa a consulta SQL para excluir o registro com o ID especificado.
+# #     # O segundo argumento da função execute é uma tupla contendo o valor do ID a ser excluído.
+#     cursor.execute(excluir_conteudo, (id_registro,))
+    
+# #     # Salva as alterações no banco de dados.
+#     banco.commit()
+#     banco.close()
+    
+# # #chamando a função para atualizar os dados
+# #
+# excluir_registro(1)
+# banco.close()
+
+# def atualizar_dado(id_registro, novo_valor, campo):
+#     banco = sqlite3.connect('Airport_Pets.db') 
+#     cursor = banco.cursor() 
+
+##Se eu quiser atualizar todo a linha uso line?
+#     atualizar_conteudo = f"UPDATE passageiros SET {campo} = ? WHERE id = ?"
+
+#     cursor.execute(atualizar_conteudo, (novo_valor, id_registro))
+
+#     banco.commit()
+#     banco.close()
+
+# atualizar_dado(1, 'N', 'Lounge')
+
+
+# banco.close()
