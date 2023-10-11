@@ -1,7 +1,7 @@
 import sqlite3  # Importa o módulo sqlite3 para trabalhar com o SQLite.
 import csv      # Importa o módulo csv para trabalhar com arquivos CSV.
 
-banco = sqlite3.connect('faturamento.db')  # Conecta-se ou cria o banco de dados SQLite chamado 'songs.db'.
+banco = sqlite3.connect('faturamento3.db')  # Conecta-se ou cria o banco de dados SQLite chamado 'songs.db'.
 cursor = banco.cursor()              # Cria um objeto de cursor para executar comandos SQL.
 
 
@@ -42,30 +42,30 @@ banco.close()
 
 
 # #função para excluir um item
-# def excluir_registro(id_registro):
-#     banco = sqlite3.connect('faturamento2.db')
-#     cursor = banco.cursor ()
+def excluir_registro(id_registro):
+    banco = sqlite3.connect('faturamento2.db')
+cursor = banco.cursor ()
     
 #     # Define a consulta SQL para excluir um registro com base no ID do registro.
-#     excluir_conteudo = "DELETE FROM vendinhas WHERE id = ?"
+excluir_conteudo = "DELETE FROM vendinhas WHERE id = ?"
     
 #     # Executa a consulta SQL para excluir o registro com o ID especificado.
 #     # O segundo argumento da função execute é uma tupla contendo o valor do ID a ser excluído.
-#     cursor.execute(excluir_conteudo, (id_registro,))
+cursor.execute(excluir_conteudo, (id_registro,))
     
 #     # Salva as alterações no banco de dados.
-#     banco.commit()
-#     banco.close()
+banco.commit()
+banco.close()
     
 # #chamando a função para atualizar os dados
-# excluir_registro(4)
-# banco.close()
+excluir_registro(4)
+banco.close()
 
 
 # #função para atualizar um dado
 # def atualizar_dado(id_registro, novo_valor, campo):
-#      banco = sqlite3.connect('faturamento3.db') 
-#      cursor = banco.cursor() 
+    #banco = sqlite3.connect('faturamento3.db') 
+# cursor = banco.cursor() 
     
 #     # Define a consulta SQL para atualizar o valor de um campo específico em uma linha com base no ID do registro.
 #     # O f-string (f"UPDATE musicas SET {campo} = ? WHERE id = ?") permite inserir dinamicamente o nome do campo a ser atualizado.

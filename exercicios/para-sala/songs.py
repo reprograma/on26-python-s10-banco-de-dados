@@ -1,7 +1,7 @@
 import sqlite3  # Importa o módulo sqlite3 para trabalhar com o SQLite.
 import csv      # Importa o módulo csv para trabalhar com arquivos CSV.
 
-banco = sqlite3.connect('songs.db')  # Conecta-se ou cria o banco de dados SQLite chamado 'songs.db'.
+banco = sqlite3.connect('songs2.db')  # Conecta-se ou cria o banco de dados SQLite chamado 'songs.db'.
 cursor = banco.cursor()              # Cria um objeto de cursor para executar comandos SQL.
 
 # Cria a tabela 'musicas' se ela não existir, definindo a estrutura da tabela.
@@ -47,7 +47,7 @@ entradas = cursor.execute(selecionar_tudo).fetchall()
 banco.commit()
 banco.close()
 
-"""
+
 #função para atualizar um dado
 def atualizar_dado(id_registro, novo_valor, campo):
      banco = sqlite3.connect('songs2.db') 
@@ -68,8 +68,7 @@ def atualizar_dado(id_registro, novo_valor, campo):
      banco.close()
 
 #chamando a função para atualizar os dados
-atualizar_dado(1, 'Edilene', 'writers')
-"""
+atualizar_dado(1, 'Tayna', 'writers')
 
 """
 # #função para excluir um item
