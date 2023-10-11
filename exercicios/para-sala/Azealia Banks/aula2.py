@@ -3,12 +3,13 @@
 ##1 - criar uma tabela chamada amigas com as seguintes colunas: id, nome, cidade, numero .
 # começamos importando o módulo do SQLite
 import sqlite3
+import csv
 
 # conexão com o banco (caso não exista, é criado) - chamar a atenção das alunas para a criação do arquivo na raiz do projeto
-connection = sqlite3.connect('banco.db')
+bank = sqlite3.connect('Titanic.db')
 
 # criação de tabela 'amigas' - usando CREATE TABLE na query SQL
-connection.execute('CREATE TABLE amigas(id INTEGER PRIMARY KEY, nome TEXT, cidade TEXT,numero INTEGER);')
+bank.execute('CREATE TABLE amigas(id INTEGER PRIMARY KEY, nome TEXT, cidade TEXT,numero INTEGER);')
 
 ##2 - Inserir 4 registros na tabela com dados ficticíos ou gerados em sala de aula:
 
