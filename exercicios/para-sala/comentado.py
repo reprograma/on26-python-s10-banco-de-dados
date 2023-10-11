@@ -36,7 +36,7 @@ conteudo = csv.reader(file)
 # para indicar que os valores reais serão fornecidos posteriormente. O número de "?" corresponde ao número de colunas 
 # especificadas anteriormente. Isso é feito para evitar problemas de segurança, como injeção de SQL, e também permite a
 # inserção de múltiplas linhas de uma vez usando executemany.
-inserir_conteudo = "INSERT INTO passageiros (PassengerId, Name, Age, Ticket, Fare, Cabin, Embarked) VALUES(?, ?, ?, ?, ?, ?, ?)"
+inserir_conteudo = "INSERT INTO passageiros (PassengerId, Name, Age, Ticket, Fare, Cabin, Embarked) VALUES( ?, ?, ?, ?, ?, ?)"
 
 # Executa o comando SQL para inserir os dados do CSV na tabela
 cursor.executemany(inserir_conteudo, conteudo)
