@@ -41,25 +41,25 @@ banco.close()
 
 
 
-# #função para excluir um item
-# def excluir_registro(id_registro):
-#     banco = sqlite3.connect('faturamento2.db')
-#     cursor = banco.cursor ()
+#função para excluir um item
+def excluir_registro(id_registro):
+    banco = sqlite3.connect('faturamento2.db')
+    cursor = banco.cursor ()
     
-#     # Define a consulta SQL para excluir um registro com base no ID do registro.
-#     excluir_conteudo = "DELETE FROM vendinhas WHERE id = ?"
+    # Define a consulta SQL para excluir um registro com base no ID do registro.
+    excluir_conteudo = "DELETE FROM vendinhas WHERE id = ?"
     
-#     # Executa a consulta SQL para excluir o registro com o ID especificado.
-#     # O segundo argumento da função execute é uma tupla contendo o valor do ID a ser excluído.
-#     cursor.execute(excluir_conteudo, (id_registro,))
+    # Executa a consulta SQL para excluir o registro com o ID especificado.
+    # O segundo argumento da função execute é uma tupla contendo o valor do ID a ser excluído.
+    cursor.execute(excluir_conteudo, (id_registro,))
     
-#     # Salva as alterações no banco de dados.
-#     banco.commit()
-#     banco.close()
+    # Salva as alterações no banco de dados.
+    banco.commit()
+    banco.close()
     
-# #chamando a função para atualizar os dados
-# excluir_registro(4)
-# banco.close()
+#chamando a função para atualizar os dados
+excluir_registro(4)
+banco.close()
 
 
 # #função para atualizar um dado
