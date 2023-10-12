@@ -1,0 +1,29 @@
+import sqlite3
+import csv
+
+banco = sqlite3.connect('jogos.db')
+cursor = banco.cursor()
+
+cursor.execute("CREATE TABLE IF NOT EXISTS jogos(id INTEGER PRIMARY KEY AUTOINCREMENT,\
+               GameId INTEGER NOT NULL,\
+               Developer TEXT,\
+               Publisher TEXT NOT NULL,\
+               Release_date FLOAT,\
+               Sales FLOAT)")
+
+
+file = open("nitendo_64.csv")
+
+conteudo = csv.reader(file)
+
+inserir_conteudo = "INSERT INTO jogos\
+(GameId, Developer, Publisher,  Release_date , Sales)\
+VALUES(?, ?, ?, ?, ?)"
+
+cursor.executemany(inserir_conteudo, conteudo)
+
+selecionar_tudo = "SELECT * FROM jogos"
+entradas = cursor.execute(selecionar_tudo).fetchall()
+
+banco.commit()
+banco.close()
