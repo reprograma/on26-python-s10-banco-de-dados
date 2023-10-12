@@ -1,0 +1,855 @@
+Zip,City,State,Division,Parking,Pets,Food,Lounge
+21001,Aberdeen,MD,Mid-Atlantic,N,N,N,N
+97321,Albany,OR,Pacific Northwest,Y,Y,N,N
+49224,Albion,MI,Central,N,Y,N,N
+87102,Albuquerque,NM,Southwest,Y,Y,N,N
+24910,Alderson,WV,Mid-Atlantic,N,N,N,N
+22301,Alexandria,VA,Mid-Atlantic,Y,Y,N,N
+44601,Alliance,OH,Central,N,N,N,N
+49707,Alpena,MI,Central,N,N,N,N
+79830,Alpine,TX,Southwest,N,N,N,N
+62002,Alton,IL,Central,Y,N,N,N
+16601,Altoona,PA,Mid-Atlantic,Y,N,N,N
+1002,Amherst,MA,Northeast,N,Y,N,N
+12010,Amsterdam,NY,Northeast,N,N,N,N
+92806,Anaheim,CA,Southwest,Y,Y,N,N
+48104,Ann Arbor,MI,Central,Y,N,N,N
+36201,Anniston,AL,Southern,N,N,N,N
+94509,Antioch,CA,Pacific,N,N,N,N
+54911,Appleton,WI,Central,N,N,N,N
+95521,Arcata,CA,Pacific,N,N,N,N
+73401,Ardmore,OK,Southwest,N,N,N,N
+19003,Ardmore,PA,Mid-Atlantic,N,N,N,N
+71923,Arkadelphia,AR,Central,N,N,N,N
+41101,Ashland,KY,Mid-Atlantic,N,N,N,N
+97520,Ashland,OR,Pacific,N,N,N,N
+23005,Ashland,VA,Mid-Atlantic,N,N,N,N
+97103,Astoria,OR,Pacific,N,N,N,N
+97103,Astoria,OR,Pacific Northwest,N,N,N,N
+93422,Atascadero,CA,Pacific,N,N,N,N
+83801,Athol,ID,Pacific Northwest,N,N,N,N
+30309,Atlanta,GA,Southern,Y,N,N,N
+8401,Atlantic City,NJ,Northeast,N,Y,N,N
+95603,Auburn,CA,Pacific,N,N,N,N
+78703,Austin,TX,Southwest,Y,Y,N,N
+97814,Baker City,OR,Pacific Northwest,N,N,N,N
+93301,Bakersfield,CA,Pacific,Y,Y,N,N
+21201,Baltimore,MD,Mid-Atlantic,Y,Y,N,N
+4401,Bangor,ME,Northeast,N,N,N,N
+49013,Bangor,MI,Central,N,N,N,N
+92311,Barstow,CA,Southwest,N,N,N,N
+92311,Barstow,CA,Southwest,N,N,N,N
+4530,Bath,ME,Northeast,N,N,N,N
+70802,Baton Rouge,LA,Southern,N,N,N,N
+49017,Battle Creek,MI,Central,Y,N,N,N
+48708,Bay City,MI,Central,N,N,N,N
+77704,Beaumont,TX,Southwest,N,N,N,N
+53916,Beaver Dam,WI,Central,N,N,N,N
+98225,Bellingham,WA,Pacific Northwest,Y,Y,N,N
+5101,Bellows Falls,VT,Northeast,N,N,N,N
+97701,Bend,OR,Pacific Northwest,N,N,N,N
+97701,Bend,OR,Pacific Northwest,N,N,N,N
+97701,Bend,OR,Pacific Northwest,N,N,N,N
+85602,Benson,AZ,Southwest,N,N,N,N
+94710,Berkeley,CA,Pacific,N,N,N,N
+21811,Berlin,MD,Mid-Atlantic,N,N,N,N
+3570,Berlin,NH,Northeast,N,N,N,N
+49307,Big Rapids,MI,Central,N,N,N,N
+98605,Bingen,WA,Pacific Northwest,N,N,N,N
+35203,Birmingham,AL,Southern,Y,N,N,N
+48009,Birmingham,MI,Central,N,N,N,N
+83702,Boise,ID,Pacific Northwest,N,N,N,N
+2116,Boston,MA,Northeast,Y,Y,N,N
+49713,Boyne Falls,MI,Central,N,N,N,N
+34205,Bradenton,FL,Southern,N,Y,N,N
+5301,Brattleboro,VT,Northeast,N,Y,N,N
+98812,Brewster,WA,Pacific,N,N,N,N
+6604,Bridgeport,CT,Northeast,N,Y,N,N
+39601,Brookhaven,MS,Southern,N,N,N,N
+97415,Brookings,OR,Pacific,N,N,N,N
+59417,Browning,MT,Pacific Northwest,N,N,N,N
+43506,Bryan,OH,Central,N,N,N,N
+93427,Buellton,CA,Pacific,N,N,N,N
+14203,Buffalo,NY,Northeast,Y,N,N,N
+91505,Burbank,CA,Southwest,N,N,N,N
+22015,Burke,VA,Mid-Atlantic,N,N,N,N
+52601,Burlington,IA,Central,N,N,N,N
+27217,Burlington,NC,Southern,N,N,N,N
+97720,Burns,OR,Pacific Northwest,N,N,N,N
+21240,BWI Airport,MD,Mid-Atlantic,Y,N,N,N
+92230,Cabazon,CA,Southwest,N,N,N,N
+49601,Cadillac,MI,Central,N,N,N,N
+93010,Camarillo,CA,Southwest,N,N,N,N
+21613,Cambridge,MD,Mid-Atlantic,N,Y,N,N
+29020,Camden,SC,Southern,N,N,N,N
+86322,Camp Verde,AZ,Southwest,N,N,N,N
+97110,Cannon Beach,OR,Pacific Northwest,N,N,N,N
+62901,Carbondale,IL,Central,Y,Y,N,N
+62626,Carlinville,IL,Central,N,N,N,N
+92008,Carlsbad,CA,Pacific,N,N,N,N
+93923,Carmel,CA,Pacific,N,N,N,N
+93013,Carpinteria,CA,Southwest,N,N,N,N
+27513,Cary,NC,Southern,Y,N,N,N
+5735,Castleton,VT,Northeast,N,Y,N,N
+97523,Cave Junction,OR,Pacific,N,N,N,N
+62801,Centralia,IL,Central,N,N,N,N
+98531,Centralia,WA,Pacific Northwest,Y,Y,N,N
+61820,Champaign,IL,Central,Y,Y,N,N
+25314,Charleston,WV,Mid-Atlantic,Y,Y,N,N
+28206,Charlotte,NC,Southern,Y,Y,N,N
+22903,Charlottesville,VA,Mid-Atlantic,Y,Y,N,N
+91311,Chatsworth,CA,Southwest,N,N,N,N
+97731,Chemult,OR,Pacific Northwest,N,N,N,N
+99109,Chewelah,WA,Pacific Northwest,N,N,N,N
+60606,Chicago,IL,Central,Y,Y,N,Y
+95928,Chico,CA,Pacific,N,N,N,N
+54729,Chippewa Falls,WI,Central,N,N,N,N
+45203,Cincinnati,OH,Central,Y,Y,N,N
+91711,Claremont,CA,Southwest,N,N,N,N
+33760,Clearwater,FL,Southern,Y,N,N,N
+76031,Cleburne,TX,Southwest,N,N,N,N
+29631,Clemson,SC,Southern,N,N,N,N
+44114,Cleveland,OH,Central,Y,Y,N,N
+24422,Clifton Forge,VA,Mid-Atlantic,N,N,N,N
+95425,Cloverdale,CA,Pacific,N,N,N,N
+19320,Coatesville,PA,Mid-Atlantic,N,N,N,N
+83814,Coeur d'Alene,ID,Pacific Northwest,N,N,N,N
+54421,Colby,WI,Central,N,N,N,N
+95713,Colfax,CA,Pacific,N,N,N,N
+99111,Colfax,WA,Pacific Northwest,N,N,N,N
+80903,Colorado Springs,CO,Central,N,N,N,N
+29201,Columbia,SC,Southern,Y,N,Y,N
+53925,Columbus,WI,Central,Y,Y,N,N
+99114,Colville,WA,Pacific Northwest,N,N,N,N
+3301,Concord,NH,Northeast,N,N,N,N
+15425,Connellsville,PA,Mid-Atlantic,N,N,N,N
+47331,Connersville,IN,Central,N,N,N,N
+97420,Coos Bay,OR,Pacific Northwest,N,N,N,N
+93212,Corcoran,CA,Pacific,N,N,N,N
+19020,Cornwells Heights,PA,Northeast,N,N,N,N
+97330,Corvallis,OR,Pacific Northwest,N,N,N,N
+97604,Crater Lake,OR,Pacific Northwest,N,N,N,N
+47933,Crawfordsville,IN,Central,N,N,N,N
+95531,Crescent City,CA,Pacific,N,N,N,N
+50891,Creston,IA,Central,N,N,N,N
+10520,Croton-on-Hudson,NY,Northeast,N,N,N,N
+22701,Culpeper,VA,Mid-Atlantic,N,N,N,N
+21502,Cumberland,MD,Mid-Atlantic,N,Y,N,N
+21502,Cumberland,MD,Mid-Atlantic,N,Y,N,N
+59427,Cut Bank,MT,Pacific Northwest,N,N,N,N
+33525,Dade City,FL,Southern,N,N,N,N
+75202,Dallas,TX,Southwest,Y,Y,N,N
+4543,Damariscotta,ME,Northeast,N,N,N,N
+61834,Danville,IL,Central,N,N,N,N
+24541,Danville,VA,Southern,N,N,N,N
+52801,Davenport,IA,Central,N,N,N,N
+95616,Davis,CA,Pacific,Y,Y,N,N
+32118,Daytona Beach,FL,Southern,N,N,N,N
+48126,Dearborn,MI,Central,Y,Y,N,N
+48216,Dearborn,MI,Central,N,N,N,N
+99006,Deer Park,WA,Pacific Northwest,N,N,N,N
+33442,Deerfield Beach,FL,Southern,N,N,N,N
+53532,Deforest,WI,Central,N,N,N,N
+78840,Del Rio,TX,Southwest,N,N,N,N
+32720,Deland,FL,Southern,N,N,N,N
+33444,Delray Beach,FL,Southern,N,N,N,N
+88030,Deming,NM,Southwest,N,N,N,N
+95316,Denair,CA,Pacific,N,N,N,N
+29042,Denmark,SC,Southern,N,N,N,N
+80202,Denver,CO,Central,N,N,N,N
+80202,Denver,CO,Central,Y,Y,N,N
+14043,Depew,NY,Northeast,Y,Y,N,N
+48202,Detroit,MI,Central,Y,Y,N,N
+56501,Detroit Lakes,MN,Central,N,N,N,N
+58301,Devils Lake,ND,Central,N,N,N,N
+29536,Dillon,SC,Southern,N,N,N,N
+67801,Dodge City,KS,Southwest,N,N,N,N
+19904,Dover,DE,Mid-Atlantic,N,Y,N,N
+3820,Dover,NH,Northeast,N,N,N,N
+49047,Dowagiac,MI,Central,N,Y,N,N
+19335,Downingtown,PA,Mid-Atlantic,N,N,N,N
+62832,Du Quoin,IL,Central,N,N,N,N
+55806,Duluth,MN,Central,N,N,N,N
+55812,Duluth,MN,Central,N,N,N,N
+14048,Dunkirk,NY,Northeast,N,N,N,N
+96025,Dunsmuir,CA,Pacific,N,N,N,N
+48429,Durand,MI,Central,N,Y,N,N
+27701,Durham,NC,Southern,Y,N,N,N
+3824,Durham,NH,Northeast,N,N,N,N
+60420,Dwight,IL,Central,N,N,N,N
+46311,Dyer,IN,Central,N,N,N,N
+93219,Earlimart,CA,Pacific,N,N,N,N
+48823,East Lansing,MI,Central,Y,N,N,N
+21601,Easton,MD,Mid-Atlantic,N,Y,N,N
+54701,Eau Claire,WI,Central,N,N,N,N
+98020,Edmonds,WA,Pacific Northwest,Y,Y,N,N
+62401,Effingham,IL,Central,N,N,N,N
+79901,El Paso,TX,Southwest,Y,Y,N,N
+95318,El Portal,CA,Pacific,N,N,N,N
+90245,El Segundo,CA,Southwest,N,N,N,N
+17022,Elizabethtown,PA,Mid-Atlantic,N,N,N,N
+95758,Elk Grove,CA,Pacific,N,N,N,N
+46515,Elkhart,IN,Central,N,N,N,N
+89801,Elko,NV,Pacific,N,N,N,N
+97138,Elsie,OR,Pacific Northwest,N,N,N,N
+44035,Elyria,OH,Central,N,N,N,N
+94608,Emeryville,CA,Pacific,Y,Y,N,N
+98823,Ephrata,WA,Pacific Northwest,N,N,N,N
+98823,Ephrata,WA,Pacific Northwest,N,N,N,N
+16501,Erie,PA,Northeast,N,N,N,N
+49829,Escanaba,MI,Central,N,N,N,N
+59916,Essex,MT,Pacific Northwest,N,N,N,N
+97401,Eugene,OR,Pacific Northwest,Y,Y,N,N
+97402,Eugene,OR,Pacific Northwest,N,N,N,N
+95501,Eureka,CA,Pacific,N,N,N,N
+98201,Everett,WA,Pacific Northwest,Y,Y,N,N
+19341,Exton,PA,Mid-Atlantic,N,N,N,N
+58102,Fargo,ND,Central,Y,Y,N,N
+28301,Fayetteville,NC,Southern,Y,Y,N,N
+93015,Fillmore,CA,Southwest,N,N,N,N
+86001,Flagstaff,AZ,Southwest,N,N,N,N
+86001,Flagstaff,AZ,Southwest,Y,Y,N,N
+48503,Flint,MI,Central,Y,N,N,N
+97439,Florence,OR,Pacific Northwest,N,N,N,N
+29506,Florence,SC,Southern,Y,N,N,N
+54935,Fond du Lac,WI,Central,N,N,N,N
+12828,Fort Edward,NY,Northeast,N,N,N,N
+76544,Fort Hood,TX,Southwest,N,N,N,N
+33312,Fort Lauderdale,FL,Southern,N,N,N,N
+52627,Fort Madison,IA,Central,Y,N,N,N
+80701,Fort Morgan,CO,Central,N,N,N,N
+33906,Fort Myers,FL,Southern,N,N,N,N
+76102,Fort Worth,TX,Southwest,Y,Y,N,N
+95540,Fortuna,CA,Pacific,N,N,N,N
+1702,Framingham,MA,Northeast,N,Y,N,N
+80442,Fraser,CO,Central,N,N,N,N
+21704,Frederick,MD,Mid-Atlantic,N,Y,N,N
+21705,Frederick,MD,Mid-Atlantic,N,Y,N,N
+22401,Fredericksburg,VA,Mid-Atlantic,N,N,N,N
+14063,Fredonia,NY,Northeast,N,N,N,N
+94536,Fremont,CA,Pacific,N,N,N,N
+94538,Fremont,CA,Pacific,N,N,N,N
+93721,Fresno,CA,Pacific,Y,Y,N,N
+80443,Frisco,CO,Central,N,N,N,N
+21532,Frostburg,MD,Mid-Atlantic,N,Y,N,N
+92832,Fullerton,CA,Southwest,Y,Y,N,N
+42041,Fulton,KY,Central,N,N,N,N
+32601,Gainesville,FL,Southern,N,N,N,N
+30501,Gainesville,GA,Southern,N,N,N,N
+76240,Gainesville,TX,Southwest,N,N,N,N
+61401,Galesburg,IL,Central,Y,N,N,N
+87301,Gallup,NM,Southwest,N,N,N,N
+77550,Galveston,TX,Southwest,N,N,N,N
+77550,Galveston,TX,Southwest,N,N,N,N
+95542,Garberville,CA,Pacific,N,N,N,N
+67846,Garden City,KS,Southwest,Y,N,N,N
+28054,Gastonia,NC,Southern,N,N,N,N
+97301,Gearhart,OR,Pacific Northwest,N,N,N,N
+20875,Germantown,MD,MARC,N,Y,N,N
+60983,Gilman,IL,Central,N,N,N,N
+95020,Gilroy,CA,Pacific,N,N,N,N
+59230,Glasgow,MT,Pacific Northwest,N,N,N,N
+91204,Glendale,CA,Southwest,N,N,N,N
+60025,Glenview,IL,Central,Y,N,N,N
+81601,Glenwood Springs,CO,Central,Y,Y,N,N
+97525,Gold Hill,OR,Pacific,N,N,N,N
+93117,Goleta,CA,Southwest,N,N,N,N
+93227,Goshen,CA,Pacific,N,N,N,N
+80446,Granby,CO,Central,N,Y,N,N
+86023,Grand Canyon National Park,AZ,Southwest,N,N,N,N
+86023,Grand Canyon National Park,AZ,Southwest,N,N,N,N
+58201,Grand Forks,ND,Central,Y,Y,N,N
+81501,Grand Junction,CO,Pacific,Y,Y,N,N
+49503,Grand Rapids,MI,Central,N,N,N,N
+83530,Grangeville,ID,Pacific Northwest,N,N,N,N
+97526,Grants Pass,OR,Pacific,N,N,N,N
+21536,Grantsville,MD,Mid-Atlantic,N,N,N,N
+21638,Grasonville,MD,Mid-Atlantic,N,Y,N,N
+54301,Green Bay,WI,Central,N,N,N,N
+84525,Green River,UT,Pacific,N,N,N,N
+27401,Greensboro,NC,Southern,Y,N,N,N
+15601,Greensburg,PA,Mid-Atlantic,N,Y,N,N
+29601,Greenville,SC,Southern,Y,Y,N,N
+38930,Greenwood,MS,Central,N,N,N,N
+93433,Grover Beach,CA,Southwest,N,N,N,N
+93434,Guadalupe,CA,Southwest,N,N,N,N
+73044,Guthrie,OK,Central,N,N,N,N
+21740,Hagerstown,MD,Mid-Atlantic,N,N,N,N
+28345,Hamlet,NC,Southern,N,N,N,N
+46320,Hammond,IN,Central,N,N,N,N
+70401,Hammond,LA,Southern,Y,N,N,N
+21750,Hancock,MD,Mid-Atlantic,N,Y,N,N
+49930,Hancock,MI,Central,N,N,N,N
+93230,Hanford,CA,Pacific,Y,N,N,N
+25425,Harpers Ferry,WV,Mid-Atlantic,N,N,N,N
+17101,Harrisburg,PA,Mid-Atlantic,Y,Y,N,N
+68901,Hastings,NE,Central,Y,Y,N,N
+39401,Hattiesburg,MS,Southern,N,N,N,N
+1832,Haverhill,MA,Northeast,N,Y,N,N
+59501,Havre,MT,Pacific Northwest,Y,Y,N,N
+94541,Hayward,CA,Pacific,N,N,N,N
+39083,Hazlehurst,MS,Southern,N,N,N,N
+95448,Healdsburg,CA,Pacific,N,N,N,N
+84526,Helper,UT,Pacific,N,N,N,N
+92545,Hemet,CA,Southwest,N,N,N,N
+92543,Hemet,CA,Southwest,N,N,N,N
+65041,Hermann,MO,Central,N,N,N,N
+27260,High Point,NC,Southern,N,N,N,N
+55037,Hinckley,MN,Central,N,N,N,Y
+25951,Hinton,WV,Mid-Atlantic,N,N,N,N
+68949,Holdrege,NE,Central,N,N,N,N
+49423,Holland,MI,Central,N,N,N,N
+33021,Hollywood,FL,Southern,N,N,N,N
+60430,Homewood,IL,Central,Y,N,N,N
+97031,Hood River,OR,Pacific Northwest,N,N,N,N
+49931,Houghton,MI,Central,N,N,N,N
+77002,Houston,TX,Southwest,Y,N,N,N
+49329,Howard City,MI,Central,N,N,N,N
+12534,Hudson,NY,Northeast,Y,N,N,N
+54016,Hudson,WI,Central,N,N,N,N
+16652,Huntingdon,PA,Mid-Atlantic,N,Y,N,N
+25701,Huntington,WV,Mid-Atlantic,Y,Y,N,N
+67501,Hutchinson,KS,Central,N,N,N,N
+64050,Independence,MO,Central,N,N,N,N
+46225,Indianapolis,IN,Central,Y,Y,N,N
+92201,Indio,CA,Southwest,N,N,N,N
+92618,Irvine,CA,Southwest,Y,N,N,Y
+8830,Iselin,NJ,Northeast,Y,Y,N,N
+95641,Isleton,CA,Pacific,N,N,N,N
+49201,Jackson,MI,Central,Y,N,N,N
+39201,Jackson,MS,Southern,Y,Y,N,N
+32209,Jacksonville,FL,Southern,N,N,N,N
+14701,Jamestown,NY,Northeast,N,N,N,N
+53545,Janesville,WI,Central,N,N,N,N
+65101,Jefferson City,MO,Central,N,N,N,N
+31545,Jesup,GA,Southern,N,N,N,N
+15901,Johnstown,PA,Mid-Atlantic,Y,Y,N,N
+60431,Joliet,IL,Central,Y,N,N,N
+95529,June Lake,CA,Pacific,N,N,N,N
+49007,Kalamazoo,MI,Central,Y,N,N,N
+49646,Kalkaska,MI,Central,N,N,N,N
+60901,Kankakee,IL,Central,N,N,N,N
+28081,Kannapolis,NC,Southern,N,N,N,N
+64108,Kansas City,MO,Central,Y,Y,N,N
+98626,Kelso,WA,Pacific Northwest,N,N,N,N
+99141,Kettle Falls,WA,Pacific Northwest,N,N,N,N
+93239,Kettleman City,CA,Pacific,N,N,N,N
+61443,Kewanee,IL,Central,N,N,N,N
+76541,Killeen,TX,Southwest,N,N,N,N
+93930,King City,CA,Pacific,N,N,N,N
+86401,Kingman,AZ,Southwest,N,N,N,N
+49649,Kingsley,MI,Central,N,N,N,N
+29556,Kingstree,SC,Southern,N,N,N,N
+63122,Kirkwood,MO,Central,N,N,N,N
+34741,Kissimmee,FL,Southern,N,N,N,N
+97601,Klamath Falls,OR,Pacific Northwest,Y,Y,N,N
+97601,Klamath Falls,OR,Pacific Northwest,N,N,N,N
+49946,L'Anse,MI,Central,N,N,N,N
+91214,La Crescenta,CA,Southwest,N,N,N,N
+54601,La Crosse,WI,Central,Y,Y,N,N
+97850,La Grande,OR,Pacific Northwest,N,N,N,N
+60525,La Grange,IL,Central,N,N,N,N
+81050,La Junta,CO,Southwest,Y,Y,N,N
+77568,La Marque,TX,Southwest,N,N,N,N
+97739,La Pine,OR,Pacific Northwest,N,N,N,N
+63549,La Plata,MO,Central,N,Y,N,N
+92253,La Quinta,CA,Southwest,N,N,N,N
+98513,Lacey,WA,Pacific Northwest,N,N,N,N
+47901,Lafayette,IN,Central,N,N,N,N
+70501,Lafayette,LA,Southern,N,N,N,N
+92677,Laguna Niguel,CA,Southwest,N,N,N,N
+70601,Lake Charles,LA,Southern,N,N,N,N
+12946,Lake Placid,NY,Northeast,N,N,N,N
+33801,Lakeland,FL,Southern,N,N,N,N
+33801,Lakeland,FL,Southern,N,N,N,N
+81052,Lamar,CO,Southwest,N,N,N,N
+87540,Lamy,NM,Southwest,Y,Y,N,N
+93534,Lancaster,CA,Southwest,N,N,N,N
+17602,Lancaster,PA,Mid-Atlantic,Y,N,N,N
+48446,Lapeer,MI,Central,N,N,N,N
+87701,Las Vegas,NM,Southwest,N,Y,N,N
+89111,Las Vegas,NV,Southwest,N,N,N,N
+89101,Las Vegas,NV,Southwest,N,Y,N,N
+15650,Latrobe,PA,Mid-Atlantic,N,N,N,N
+89029,Laughlin,NV,Southwest,N,N,N,N
+39440,Laurel,MS,Southern,N,N,N,N
+66044,Lawrence,KS,Central,N,N,N,N
+95454,Laytonville,CA,Pacific,N,N,N,N
+98826,Leavenworth,WA,Pacific Northwest,N,N,N,N
+98826,Leavenworth,WA,Pacific Northwest,N,N,N,N
+6339,Ledyard,CT,Northeast,N,Y,N,N
+95541,Lee Vining,CA,Pacific,N,N,N,N
+64063,Lee's Summit,MO,Central,N,Y,N,N
+95585,Leggett,CA,Pacific,N,N,N,N
+93245,Lemoore,CA,Pacific,N,N,N,N
+93245,Lemoore,CA,Pacific,N,N,N,N
+83501,Lewiston,ID,Pacific Northwest,N,N,N,N
+17044,Lewistown,PA,Mid-Atlantic,N,N,N,N
+27292,Lexington,NC,Southern,N,N,N,N
+59923,Libby,MT,Pacific Northwest,N,N,N,N
+62656,Lincoln,IL,Central,N,N,N,N
+68508,Lincoln,NE,Central,Y,N,N,N
+72201,Little Rock,AR,Central,Y,Y,N,N
+93543,Littlerock,CA,Southwest,N,N,N,N
+3561,Littleton,NH,Northeast,N,N,N,N
+94550,Livermore,CA,Pacific,N,N,N,N
+94550,Livermore,CA,Pacific,N,N,N,N
+95240,Lodi,CA,Pacific,N,N,N,N
+93436,Lompoc,CA,Southwest,N,N,N,N
+90802,Long Beach,CA,Southwest,N,N,N,N
+90802,Long Beach,CA,Southwest,N,N,N,N
+75602,Longview,TX,Southwest,Y,Y,N,N
+99148,Loon Lake,WA,Pacific Northwest,N,N,N,N
+88045,Lordsburg,NM,Southwest,N,N,N,N
+22079,Lorton,VA,Southern,Y,N,N,N
+90012,Los Angeles,CA,Southwest,Y,N,N,N
+90024,Los Angeles,CA,Southwest,N,N,N,N
+40203,Louisville,KY,Central,N,N,N,N
+24501,Lynchburg,VA,Southern,Y,Y,N,N
+49701,Mackinaw City,MI,Central,N,N,N,N
+61455,Macomb,IL,Central,N,N,N,N
+93638,Madera,CA,Pacific,N,N,N,N
+53706,Madison,WI,Central,N,N,N,N
+53716,Madison,WI,Central,N,N,N,N
+59538,Malta,MT,Pacific Northwest,N,Y,N,N
+72104,Malvern,AR,Central,N,N,N,N
+93546,Mammoth Lakes,CA,Pacific,N,N,N,N
+20110,Manassas,VA,Mid-Atlantic,N,N,N,N
+49659,Mancelona,MI,Central,N,N,N,N
+3101,Manchester,NH,Northeast,N,N,N,N
+54220,Manitowoc,WI,Central,N,N,N,N
+97106,Manning,OR,Pacific Northwest,N,N,N,N
+95330,Manteca,CA,Pacific,N,N,N,N
+49663,Manton,MI,Central,N,N,N,N
+64658,Marceline,MO,Central,N,Y,N,N
+85139,Maricopa,AZ,Southwest,Y,Y,N,N
+54143,Marinette,WI,Central,N,N,N,N
+95338,Mariposa,CA,Pacific,N,N,N,N
+95338,Mariposa,CA,Pacific,N,N,N,N
+49855,Marquette,MI,Central,N,N,N,N
+75670,Marshall,TX,Southwest,Y,N,N,N
+94553,Martinez,CA,Pacific,Y,Y,N,N
+25401,Martinsburg,WV,Mid-Atlantic,N,N,N,N
+95901,Marysville,CA,Pacific,N,N,N,N
+61938,Mattoon,IL,Central,N,N,N,N
+41056,Maysville,KY,Central,N,N,N,N
+83638,McCall,ID,Pacific Northwest,N,N,N,N
+39648,McComb,MS,Southern,N,N,N,N
+69001,McCook,NE,Central,N,N,N,N
+76657,McGregor,TX,Southwest,N,N,N,N
+95519,McKinleyville,CA,Pacific,N,N,N,N
+97501,Medford,OR,Pacific,N,N,N,N
+38103,Memphis,TN,Central,Y,Y,N,N
+61342,Mendota,IL,Central,N,N,N,N
+54751,Menomonie,WI,Central,N,N,N,N
+95340,Merced,CA,Pacific,Y,Y,N,N
+39301,Meridian,MS,Southern,Y,Y,N,N
+33147,Miami,FL,Southern,N,N,N,Y
+46360,Michigan City,IN,Central,N,N,N,N
+17057,Middletown,PA,Mid-Atlantic,N,N,N,N
+95345,Midpines,CA,Pacific,N,N,N,N
+53221,Milwaukee,WI,Central,N,N,N,N
+53203,Milwaukee,WI,Central,Y,Y,N,N
+75773,Mineola,TX,Southwest,N,N,N,N
+58701,Minot,ND,Central,Y,N,N,N
+95355,Modesto,CA,Pacific,Y,Y,N,N
+93501,Mojave,CA,Pacific,N,N,N,N
+61265,Moline,IL,Central,N,N,N,N
+98272,Monroe,WA,Pacific Northwest,N,N,N,N
+98272,Monroe,WA,Pacific Northwest,N,N,N,N
+93940,Monterey,CA,Pacific,N,N,N,N
+93940,Monterey,CA,Pacific,N,N,N,N
+93940,Monterey,CA,Pacific,N,N,N,N
+93940,Monterey,CA,Pacific,N,N,N,N
+93940,Monterey,CA,Pacific,N,N,N,N
+25136,Montgomery,WV,Mid-Atlantic,N,N,N,N
+93021,Moorpark,CA,Southwest,N,N,N,N
+95037,Morgan Hill,CA,Pacific,N,N,N,N
+83843,Moscow,ID,Pacific Northwest,N,N,N,N
+98837,Moses Lake,WA,Pacific Northwest,N,N,N,N
+54455,Mosinee,WI,Central,N,N,N,N
+17552,Mount Joy,PA,Mid-Atlantic,N,N,N,N
+98273,Mount Vernon,WA,Pacific Northwest,N,N,N,N
+52641,Mt. Pleasant,IA,Central,Y,N,N,N
+75965,Nacogdoches,TX,Southwest,N,N,N,N
+83651,Nampa,ID,Pacific Northwest,N,N,N,N
+94559,Napa,CA,Pacific,N,N,N,N
+94559,Napa,CA,Pacific,N,N,N,N
+60540,Naperville,IL,Central,Y,N,N,N
+97301,Necanicum Junction,OR,Pacific Northwest,N,N,N,N
+92363,Needles,CA,Southwest,N,N,N,N
+49117,New Buffalo,MI,Central,N,N,N,N
+20784,New Carrollton,MD,Mid-Atlantic,Y,Y,N,N
+3256,New Hampton,NH,Northeast,N,N,N,N
+6519,New Haven,CT,Northeast,Y,Y,N,N
+70560,New Iberia,LA,Southern,N,N,N,N
+70113,New Orleans,LA,Southern,Y,N,N,Y
+10801,New Rochelle,NY,Northeast,N,N,N,N
+10001,New York,NY,Northeast,Y,Y,N,Y
+19711,Newark,DE,Mid-Atlantic,N,Y,N,N
+7114,Newark,NJ,Northeast,Y,Y,N,N
+7102,Newark,NJ,Northeast,Y,Y,N,N
+38059,Newbern,TN,Central,N,N,N,N
+1950,Newburyport,MA,Northeast,N,Y,N,N
+97365,Newport,OR,Pacific Northwest,N,N,N,N
+23601,Newport News,VA,Mid-Atlantic,Y,N,N,N
+67114,Newton,KS,Central,Y,N,N,N
+14305,Niagara Falls,NY,Northeast,Y,N,N,N
+49120,Niles,MI,Central,Y,N,N,N
+23510,Norfolk,VA,Mid-Atlantic,N,N,N,N
+61761,Normal,IL,Central,Y,Y,N,N
+73069,Norman,OK,Central,N,N,N,N
+27607,North Carolina State Fair,NC,Southern,N,N,N,N
+29405,North Charleston,SC,Southern,Y,Y,N,N
+94621,Oakland,CA,Pacific,N,N,N,N
+94607,Oakland,CA,Pacific,Y,Y,N,N
+34470,Ocala,FL,Southern,N,N,N,N
+21842,Ocean City,MD,Mid-Atlantic,N,N,N,N
+92054,Oceanside,CA,Southwest,Y,N,N,N
+54153,Oconto,WI,Central,N,N,N,N
+21113,Odenton,MD,MARC,,,,
+84401,Ogden,UT,Pacific,N,N,N,N
+98840,Okanogan,WA,Pacific,N,N,N,N
+34972,Okeechobee,FL,Southern,N,N,N,N
+73102,Oklahoma City,OK,Southwest,N,N,N,N
+6475,Old Saybrook,CT,Northeast,Y,Y,N,N
+68108,Omaha,NE,Central,Y,Y,N,N
+98841,Omak,WA,Pacific,N,N,N,N
+91764,Ontario,CA,Southwest,N,N,N,N
+97914,Ontario,OR,Pacific Northwest,N,N,N,N
+92866,Orange,CA,Southwest,N,N,N,N
+97045,Oregon City,OR,Pacific Northwest,N,N,N,N
+32806,Orlando,FL,Southern,Y,N,N,N
+95965,Oroville,CA,Pacific,N,N,N,N
+50213,Osceola,IA,Central,N,N,N,N
+54902,Oshkosh,WI,Central,N,N,N,N
+54901,Oshkosh,WI,Central,N,N,N,N
+52501,Ottumwa,IA,Central,Y,N,N,N
+48867,Owosso,MI,Central,N,N,N,N
+93030,Oxnard,CA,Southwest,Y,N,N,N
+32177,Palatka,FL,Southern,N,N,N,N
+92260,Palm Desert,CA,Southwest,N,N,N,N
+92262,Palm Springs,CA,Southwest,N,N,N,N
+92262,Palm Springs,CA,Southwest,N,N,N,N
+92262,Palm Springs,CA,Southwest,N,N,N,N
+93550,Palmdale,CA,Southwest,N,N,N,N
+19301,Paoli,PA,Mid-Atlantic,Y,Y,N,N
+19365,Parkesburg,PA,Mid-Atlantic,N,N,N,N
+91101,Pasadena,CA,Southwest,N,N,N,N
+99301,Pasco,WA,Pacific Northwest,Y,Y,N,N
+93446,Paso Robles,CA,Southwest,N,N,N,N
+98846,Pateros,WA,Pacific,N,N,N,N
+73075,Pauls Valley,OK,Southwest,N,N,N,N
+49769,Pellston,MI,Central,N,N,N,N
+97801,Pendleton,OR,Pacific Northwest,N,N,N,N
+61602,Peoria,IL,Central,N,N,N,N
+92571,Perris,CA,Southwest,N,N,N,N
+21903,Perryville,MD,MARC,,,,
+94952,Petaluma,CA,Pacific,N,N,N,N
+23803,Petersburg,VA,Southern,Y,Y,N,N
+49770,Petosky,MI,Central,N,N,N,N
+19104,Philadelphia,PA,Mid-Atlantic,Y,Y,N,Y
+19132,Philadelphia,PA,Mid-Atlantic,N,Y,N,N
+85034,Phoenix,AZ,Southwest,N,N,N,N
+85034,Phoenix,AZ,Southwest,N,N,N,N
+85023,Phoenix,AZ,Southwest,N,N,N,N
+39466,Picayune,MS,Southern,N,N,N,N
+15222,Pittsburgh,PA,Mid-Atlantic,Y,Y,N,N
+1201,Pittsfield,MA,Northeast,N,Y,N,N
+95667,Placerville,CA,Pacific,N,N,N,N
+60545,Plano,IL,Central,N,N,N,N
+12901,Plattsburgh,NY,Northeast,N,N,N,N
+94588,Pleasanton,CA,Pacific,N,N,N,N
+94566,Pleasanton,CA,Pacific,N,N,N,N
+83851,Plummer,ID,Pacific Northwest,N,N,N,N
+3264,Plymouth,NH,Northeast,N,N,N,N
+21777,Point of Rocks,MD,MARC,,,,
+91768,Pomona,CA,Southwest,N,N,N,N
+61764,Pontiac,IL,Central,N,N,N,N
+48342,Pontiac,MI,Central,N,N,N,N
+63901,Poplar Bluff,MO,Central,N,N,N,N
+33980,Port Charlotte,FL,Southern,N,N,N,N
+12974,Port Henry,NY,Northeast,N,N,N,N
+48060,Port Huron,MI,Central,Y,N,N,N
+12975,Port Kent,NY,Northeast,N,N,N,N
+53901,Portage,WI,Central,N,N,N,N
+4102,Portland,ME,Northeast,Y,N,N,N
+97209,Portland,OR,Pacific,N,N,N,N
+97209,Portland,OR,Pacific Northwest,Y,Y,N,Y
+3801,Portsmouth,NH,Northeast,N,N,N,N
+88354,Post Falls,ID,Pacific Northwest,N,N,N,N
+83855,Potlatch,ID,Pacific Northwest,N,N,N,N
+12601,Poughkeepsie,NY,Northeast,N,N,N,N
+89019,Primm,NV,Southwest,N,N,N,N
+25907,Prince,WV,Mid-Atlantic,Y,Y,N,N
+61356,Princeton,IL,Central,N,N,N,N
+8550,Princeton Junction,NJ,Northeast,Y,Y,N,N
+84601,Provo,UT,Pacific,N,N,N,N
+93907,Prunedale,CA,Pacific,N,N,N,N
+81003,Pueblo,CO,Central,N,N,N,N
+99163,Pullman,WA,Pacific Northwest,N,N,N,N
+73080,Purcell,OK,Central,N,N,N,N
+22134,Quantico,VA,Mid-Atlantic,N,N,N,N
+62301,Quincy,IL,Central,N,N,N,N
+98848,Quincy,WA,Pacific Northwest,N,N,N,N
+27601,Raleigh,NC,Southern,Y,N,N,Y
+61866,Rantoul,IL,Central,N,N,N,N
+87740,Raton,NM,Southwest,Y,N,N,N
+96080,Red Bluff,CA,Pacific,N,N,N,N
+55066,Red Wing,MN,Central,N,N,N,N
+96001,Redding,CA,Pacific,N,N,N,N
+96001,Redding,CA,Pacific,N,N,N,N
+97756,Redmond,OR,Pacific Northwest,N,N,N,N
+49677,Reed City,MI,Central,N,N,N,N
+97467,Reedsport,OR,Pacific Northwest,N,N,N,N
+89501,Reno,NV,Pacific,Y,Y,N,N
+47978,Rensselaer,IN,Central,N,N,N,N
+12144,Rensselaer,NY,Northeast,Y,Y,N,N
+12574,Rhinecliff,NY,Northeast,Y,N,N,N
+94802,Richmond,CA,Pacific,N,N,N,N
+23219,Richmond,VA,Mid-Atlantic,N,N,N,N
+23228,Richmond,VA,Mid-Atlantic,Y,Y,N,N
+94571,Rio Vista,CA,Pacific,N,N,N,N
+94585,Rio Vista Junction,CA,Pacific,N,N,N,N
+99169,Ritzville,WA,Pacific Northwest,N,N,N,N
+92508,Riverside,CA,Southwest,N,N,N,N
+92507,Riverside,CA,Southwest,N,N,N,N
+14605,Rochester,NY,Northeast,Y,Y,N,N
+61201,Rock Island,IL,Central,N,N,N,N
+61108,Rockford,IL,Central,N,N,N,N
+49341,Rockford,MI,Central,N,N,N,N
+4841,Rockland,ME,Northeast,N,N,N,N
+95677,Rocklin,CA,Pacific,N,N,N,N
+20850,Rockville,MD,Mid-Atlantic,N,N,N,N
+27804,Rocky Mount,NC,Southern,Y,N,N,N
+94928,Rohnert Park,CA,Pacific,N,N,N,N
+13440,Rome,NY,Northeast,N,N,N,N
+95678,Roseville,CA,Pacific,N,N,N,N
+54474,Rothschild,WI,Central,N,N,N,N
+12979,Rouses Point,NY,Northeast,N,N,N,N
+48069,Royal Oak,MI,Central,N,N,N,N
+58368,Rugby,ND,Central,Y,N,N,N
+4072,Saco,ME,Northeast,N,Y,N,N
+95814,Sacramento,CA,Pacific,Y,N,N,N
+95814,Sacramento,CA,Pacific,N,N,N,N
+48607,Saginaw,MI,Central,N,N,N,N
+83860,Sagle,ID,Pacific Northwest,N,N,N,N
+97301,Salem,OR,Pacific Northwest,N,N,N,N
+97301,Salem,OR,Pacific Northwest,Y,Y,N,N
+93901,Salinas,CA,Pacific,Y,N,N,N
+21801,Salisbury,MD,Mid-Atlantic,N,N,N,N
+21801,Salisbury,MD,Mid-Atlantic,N,N,N,N
+28144,Salisbury,NC,Southern,N,N,N,N
+84101,Salt Lake City,UT,Pacific,N,N,N,N
+84101,Salt Lake City,UT,Pacific,Y,Y,N,N
+78205,San Antonio,TX,Southwest,Y,Y,N,N
+92410,San Bernardino,CA,Southwest,N,N,N,N
+92672,San Clemente,CA,Southwest,N,N,N,N
+92110,San Diego,CA,Southwest,N,N,N,N
+92101,San Diego,CA,Southwest,Y,N,N,N
+94105,San Francisco,CA,Pacific,Y,N,N,N
+94111,San Francisco,CA,Pacific,N,N,N,N
+94111,San Francisco,CA,Pacific,N,N,N,N
+94103,San Francisco,CA,Pacific,N,N,N,N
+94107,San Francisco,CA,Pacific,N,N,N,N
+94103,San Francisco,CA,Pacific,N,N,N,N
+94102,San Francisco,CA,Pacific,N,N,N,N
+94133,San Francisco,CA,Pacific,N,N,N,N
+95110,San Jose,CA,Pacific,Y,N,N,N
+92675,San Juan Capistrano,CA,Southwest,Y,N,N,N
+93401,San Luis Obispo,CA,Southwest,Y,N,N,N
+93401,San Luis Obispo,CA,Southwest,N,N,N,N
+78666,San Marcos,TX,Southwest,N,N,N,N
+90731,San Pedro,CA,Southwest,N,N,N,N
+90731,San Pedro,CA,Southwest,N,N,N,N
+79848,Sanderson,TX,Southwest,N,N,N,N
+83864,Sandpoint,ID,Pacific Northwest,N,N,N,N
+83864,Sandpoint,ID,Pacific Northwest,N,N,N,N
+44870,Sandusky,OH,Central,N,N,N,N
+32771,Sanford,FL,Southern,Y,N,N,N
+92701,Santa Ana,CA,Southwest,Y,N,N,N
+93101,Santa Barbara,CA,Southwest,Y,N,N,N
+95054,Santa Clara,CA,Pacific,N,N,N,N
+95050,Santa Clara,CA,Pacific,N,N,N,N
+91321,Santa Clarita,CA,Southwest,N,N,N,N
+95060,Santa Cruz,CA,Pacific,N,N,N,N
+87501,Santa Fe,NM,Southwest,N,N,N,N
+93455,Santa Maria,CA,Southwest,N,N,N,N
+93060,Santa Paula,CA,Southwest,N,N,N,N
+95401,Santa Rosa,CA,Pacific,N,N,N,N
+34231,Sarasota,FL,Southern,N,N,N,N
+12866,Saratoga Springs,NY,Northeast,Y,N,N,N
+12866,Saratoga Springs,NY,Northeast,N,N,N,N
+49783,Sault Sainte Marie,MI,Central,N,N,N,N
+31401,Savannah,GA,Southern,Y,Y,N,N
+12305,Schenectady,NY,Northeast,Y,Y,N,N
+70395,Schriever,LA,Central,N,N,N,N
+95565,Scotia,CA,Pacific,N,N,N,N
+95066,Scotts Valley,CA,Pacific,N,N,N,N
+4974,Searsport,ME,Northeast,N,Y,N,N
+93955,Seaside,CA,Pacific,N,N,N,N
+97301,Seaside,OR,Pacific Northwest,N,N,N,N
+98104,Seattle,WA,Pacific Northwest,Y,Y,N,N
+98121,Seattle,WA,Pacific,N,N,N,N
+33870,Sebring,FL,Southern,Y,N,N,N
+65301,Sedalia,MO,Central,N,N,N,N
+86336,Sedona,AZ,Southwest,N,N,N,N
+27576,Selma,NC,Southern,N,N,N,N
+54166,Shawano,WI,Central,N,N,N,N
+53081,Sheboygan,WI,Central,N,N,N,N
+59474,Shelby,MT,Pacific Northwest,Y,Y,N,N
+71109,Shreveport,LA,Southwest,N,N,N,N
+93063,Simi Valley,CA,Southwest,N,N,N,N
+98288,Skykomish,WA,Pacific Northwest,N,N,N,N
+98288,Skykomish,WA,Pacific Northwest,N,N,N,N
+70458,Slidell,LA,Southern,N,N,N,N
+95567,Smith River,CA,Pacific,N,N,N,N
+92075,Solana Beach,CA,Southwest,Y,N,N,N
+93463,Solvang,CA,Southwest,N,N,N,N
+8083,Somerdale,NJ,Northeast,N,Y,N,N
+61080,South Beloit,IL,Central,N,N,N,N
+46628,South Bend,IN,Central,Y,Y,N,N
+96151,South Lake Tahoe,CA,Pacific,N,N,N,N
+41174,South Shore,KY,Central,N,N,N,N
+28387,Southern Pines,NC,Southern,N,N,N,N
+89431,Sparks,NV,Pacific,N,Y,N,N
+29303,Spartanburg,SC,Southern,N,N,N,N
+99201,Spokane,WA,Pacific Northwest,Y,Y,N,N
+62701,Springfield,IL,Central,Y,Y,N,N
+56304,St. Cloud,MN,Central,N,N,N,N
+84770,St. George,UT,Southwest,N,N,N,N
+49781,St. Ignace,MI,Central,N,N,N,N
+49085,St. Joseph,MI,Central,N,N,N,N
+63103,St. Louis,MO,Central,Y,Y,N,Y
+55114,St. Paul,MN,Central,Y,Y,N,Y
+58784,Stanley,ND,Pacific Northwest,N,N,N,N
+54768,Stanley,WI,Central,N,N,N,N
+98292,Stanwood,WA,Pacific Northwest,N,N,N,N
+56479,Staples,MN,Central,N,N,N,N
+96150,Stateline,CA,Pacific,N,N,N,N
+89449,Stateline,NV,Pacific,N,Y,N,N
+24401,Staunton,VA,Mid-Atlantic,N,Y,N,N
+98826,Stevens Pass,WA,Pacific Northwest,N,N,N,N
+54481,Stevens Point,WI,Central,N,N,N,N
+54481,Stevens Point,WI,Central,N,N,N,N
+95203,Stockton,CA,Pacific,Y,N,N,N
+95202,Stockton,CA,Pacific,N,N,N,N
+53177,Sturtevant,WI,Central,N,N,N,N
+94585,Suisun City,CA,Pacific,N,N,N,N
+60501,Summit,IL,Central,N,N,N,N
+92586,Sun City-Menifee,CA,Southwest,N,N,N,N
+97707,Sunriver,OR,Pacific Northwest,N,N,N,N
+93437,Surf,CA,Southwest,N,N,N,N
+13209,Syracuse,NY,Northeast,N,N,N,N
+13208,Syracuse,NY,Northeast,Y,Y,N,N
+98421,Tacoma,WA,Pacific Northwest,Y,Y,N,N
+33602,Tampa,FL,Southern,Y,N,N,N
+48763,Tawas City,MI,Central,N,N,N,N
+76574,Taylor,TX,Southwest,N,N,N,N
+93561,Tehachapi,CA,Southwest,N,N,N,N
+76501,Temple,TX,Southwest,Y,N,N,N
+71854,Texarkana,AR,Southwest,Y,Y,N,N
+97058,The Dalles,OR,Pacific Northwest,N,N,N,N
+32159,The Villages,FL,Southern,N,N,N,N
+25936,Thurmond,WV,Mid-Atlantic,N,N,N,N
+12883,Ticonderoga,NY,Northeast,N,N,N,N
+30577,Toccoa,GA,Southern,N,N,N,N
+43604,Toledo,OH,Central,Y,Y,N,N
+97391,Toledo,OR,Pacific Northwest,N,N,N,N
+54660,Tomah,WI,Central,N,N,N,N
+66607,Topeka,KS,Central,Y,N,N,N
+90502,Torrance,CA,Southwest,N,N,N,N
+95376,Tracy,CA,Pacific,N,N,N,N
+95377,Tracy,CA,Pacific,N,N,N,N
+49684,Traverse City,MI,Central,N,N,N,N
+8609,Trenton,NJ,Northeast,Y,Y,N,N
+81082,Trinidad,CO,Southwest,N,N,N,N
+96161,Truckee,CA,Pacific,N,N,N,N
+85701,Tucson,AZ,Southwest,Y,Y,N,N
+98188,Tukwila,WA,Pacific Northwest,N,N,N,N
+86023,Tusayan,AZ,Southwest,N,N,N,N
+35401,Tuscaloosa,AL,Southern,Y,N,N,N
+83301,Twin Falls,ID,Pacific Northwest,N,N,N,N
+16686,Tyrone,PA,Mid-Atlantic,N,N,N,N
+95482,Ukiah,CA,Pacific,N,N,N,N
+13501,Utica,NY,Northeast,Y,Y,N,N
+81657,Vail,CO,Central,N,N,N,N
+97918,Vale,OR,Pacific Northwest,N,N,N,N
+94589,Vallejo,CA,Pacific,N,N,N,N
+94589,Vallejo,CA,Pacific,N,N,N,N
+91405,Van Nuys,CA,Southwest,Y,N,N,N
+98660,Vancouver,WA,Pacific Northwest,Y,Y,N,N
+93003,Ventura,CA,Southwest,N,N,N,N
+92395,Victorville,CA,Southwest,N,N,N,N
+92395,Victorville,CA,Southwest,N,N,N,N
+23451,Virginia Beach,VA,Mid-Atlantic,N,Y,N,N
+93291,Visalia,CA,Pacific,N,N,N,N
+32694,Waldo,FL,Southern,N,N,N,N
+4572,Waldoboro,ME,Northeast,N,Y,N,N
+99362,Walla Walla,WA,Pacific Northwest,N,N,N,N
+6492,Wallingford,CT,Northeast,N,Y,N,N
+49796,Walloon Lake,MI,Central,N,N,N,N
+72476,Walnut Ridge,AR,Central,N,N,N,N
+64093,Warrensburg,MO,Central,N,N,N,N
+97146,Warrenton,OR,Pacific Northwest,N,N,N,N
+93280,Wasco,CA,Pacific,N,N,N,N
+20002,Washington,DC,Mid-Atlantic,Y,Y,N,Y
+63090,Washington,MO,Central,N,N,N,N
+5676,Waterbury,VT,Northeast,N,Y,N,N
+46793,Waterloo,IN,Central,N,N,N,N
+54981,Waupaca,WI,Central,N,N,N,N
+53963,Waupun,WI,Central,N,N,N,N
+54403,Wausau,WI,Central,N,N,N,N
+4090,Wells,ME,Northeast,N,Y,N,N
+98801,Wenatchee,WA,Pacific Northwest,N,N,N,N
+59936,West Glacier,MT,Pacific Northwest,N,N,N,N
+2892,West Kingston,RI,Northeast,Y,Y,N,N
+33407,West Palm Beach,FL,Southern,N,N,N,N
+33401,West Palm Beach,FL,Southern,Y,N,N,N
+90045,Westchester,CA,Southwest,N,N,N,N
+2891,Westerly,RI,Northeast,Y,Y,N,N
+53964,Westfield,WI,Central,N,N,N,N
+12993,Westport,NY,Northeast,N,N,N,N
+2090,Westwood,MA,Northeast,Y,Y,N,N
+97503,White City,OR,Pacific,N,N,N,N
+5001,White River Junction,VT,Northeast,N,N,N,N
+24986,White Sulphur Springs,WV,Mid-Atlantic,N,N,N,N
+59937,Whitefish,MT,Pacific Northwest,Y,Y,N,N
+12887,Whitehall,NY,Northeast,N,N,N,N
+34785,Wildwood,FL,Southern,N,N,N,N
+86046,Williams,AZ,Southwest,N,N,N,N
+86046,Williams Junction,AZ,Southwest,N,N,N,N
+23185,Williamsburg,VA,Mid-Atlantic,Y,Y,N,N
+58801,Williston,ND,Pacific Northwest,Y,Y,N,N
+95490,Willits,CA,Pacific,N,N,N,N
+19801,Wilmington,DE,Mid-Atlantic,Y,Y,N,N
+27893,Wilson,NC,Southern,Y,Y,N,N
+6095,Windsor,CT,Northeast,N,Y,N,N
+5089,Windsor,VT,Northeast,N,N,N,N
+6096,Windsor Locks,CT,Northeast,N,Y,N,N
+89445,Winnemucca,NV,Pacific,N,Y,N,N
+55987,Winona,MN,Central,Y,Y,N,N
+86047,Winslow,AZ,Southwest,N,N,N,N
+27110,Winston-Salem,NC,Southern,N,N,N,N
+27101,Winston-Salem,NC,Southern,N,N,N,N
+33880,Winter Haven,FL,Southern,Y,N,N,N
+32789,Winter Park,FL,Southern,Y,N,N,N
+4578,Wiscasset,ME,Northeast,N,Y,N,N
+53965,Wisconsin Dells,WI,Central,N,N,N,N
+98673,Wishram,WA,Pacific Northwest,N,N,N,N
+54499,Wittenberg,WI,Central,N,N,N,N
+1801,Woburn,MA,Northeast,N,Y,N,N
+59201,Wolf Point,MT,Pacific Northwest,Y,N,N,N
+22194,Woodbridge,VA,Mid-Atlantic,N,Y,N,N
+1604,Worcester,MA,Northeast,Y,Y,N,N
+39194,Yazoo City,MS,Central,N,N,N,N
+29945,Yemassee,SC,Southern,N,N,N,N
+10701,Yonkers,NY,Northeast,N,N,N,N
+95389,Yosemite National Park,CA,Pacific,N,N,N,N
+95389,Yosemite National Park,CA,Pacific,N,N,N,N
+95389,Yosemite National Park,CA,Pacific,N,N,N,N
+95389,Yosemite National Park,CA,Pacific,N,N,N,N
+95389,Yosemite National Park,CA,Pacific,N,N,N,N
+95389,Yosemite National Park,CA,Pacific,N,N,N,N
+95389,Yosemite National Park,CA,Pacific,N,N,N,N
+85364,Yuma,AZ,Southwest,N,N,N,N
