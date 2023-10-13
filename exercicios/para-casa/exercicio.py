@@ -7,21 +7,22 @@ cursor = banco.cursor()
 
 cursor.execute('''CREATE TABLE IF NOT EXISTS meuspets (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
-    ID INT,
-    Nome VARCHAR (100),
-    Tipo VARCHAR (10),
-    Genero VARCHAR (20),
-    Idade INT,
-    Peso INT    
+    codpet INT,
+    Nomepet VARCHAR (100),
+    Tipopet VARCHAR (10),
+    Generopet VARCHAR (20),
+    Idadepet INT,
+    Pesopet INT    
 )''')
 
 file = open("pets.csv")
+
 next(file)
 
 conteudo = csv.reader(file)
 
-inserir_conteudo =  "INSERT INTO vendinhas(ID,Nome,Tipo,Genero,Idade,Peso)\
-VALUES (8,Corona,Cachorro,Femea,3,30)"
+inserir_conteudo =  "INSERT INTO meuspets(Cod,Nome,Tipo,Genero,Idade,Peso)\
+VALUES (8, Corona, Cachorro, Femea, 3, 30)"
 
 cursor.executemany(inserir_conteudo, conteudo)
 
