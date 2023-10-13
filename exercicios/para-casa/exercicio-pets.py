@@ -1,5 +1,5 @@
 import sqlite3
-
+import csv
 
 def criar_banco():
     banco = sqlite3.connect('meu_banco.db')
