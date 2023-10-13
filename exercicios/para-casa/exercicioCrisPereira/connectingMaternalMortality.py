@@ -6,6 +6,7 @@ cursor = connection.cursor()
 # Entity,Code,Year,Indicator:Maternal mortality ratio (per 100 000 live births)
 
 cursor.execute('''CREATE TABLE IF NOT EXISTS maternal_mortality (
+               id INTEGER PRIMARY KEY AUTOINCREMENT,
                Entity TEXT,
                Code TEXT,
                Year TEXT, 

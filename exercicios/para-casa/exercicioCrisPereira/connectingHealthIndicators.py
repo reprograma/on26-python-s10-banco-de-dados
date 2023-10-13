@@ -6,6 +6,7 @@ cursor = connection.cursor()
 # VAR,"Variable","UNIT","Measure","COU","Country","YEA","Year","Value","Flag Codes","Flags"
 
 cursor.execute('''CREATE TABLE IF NOT EXISTS pharmaceuticals (
+               id INTEGER PRIMARY KEY AUTOINCREMENT,
                VAR TEXT,
                Variable TEXT,
                UNIT TEXT,
