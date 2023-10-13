@@ -15,14 +15,15 @@ cursor.execute('''CREATE TABLE IF NOT EXISTS meuspets (
     Pesopet INT    
 )''')
 
-file = open("pets.csv")
+arquivo = open("pets.csv")
+next(arquivo)
 
-next(file)
 
-conteudo = csv.reader(file)
 
-inserir_conteudo =  "INSERT INTO meuspets(Cod,Nome,Tipo,Genero,Idade,Peso)\
-VALUES (8, Corona, Cachorro, Femea, 3, 30)"
+conteudo = csv.reader(arquivo)
+
+inserir_conteudo =  "INSERT INTO meuspets(codpet,Nomepet,Tipopet,Generopet,Idadepet,Pesopet)\
+VALUES (5, Corona, cachorro, Femea, 3, 30)"
 
 cursor.executemany(inserir_conteudo, conteudo)
 
