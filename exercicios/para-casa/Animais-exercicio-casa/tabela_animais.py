@@ -40,7 +40,7 @@ entradas = manipulador_do_banco.execute(selecionar_tudo).fetchall()
 banco.commit();
 banco.close();
 
-"""Excluí as linhas correspondentes aos animais Aardvark"""
+"""Excluí a linha correspondente ao animal Aardvark"""
 
 def excluir(Animal):
     banco = sqlite3.connect('Animais.db')
