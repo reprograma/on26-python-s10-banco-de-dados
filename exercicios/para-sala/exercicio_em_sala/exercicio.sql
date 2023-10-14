@@ -56,3 +56,6 @@ SELECT * FROM Funcionarios WHERE ID = 5;
   
   -- visualização dos dados
   SELECT * FROM Pet
+
+-- def excluir_registro(id):
+--cursor.execute("DELETE FROM documentaries WHERE Id = ?", (id,))
