@@ -1,7 +1,7 @@
 import sqlite3  # Importa o módulo sqlite3 para trabalhar com o SQLite.
 import csv      # Importa o módulo csv para trabalhar com arquivos CSV.
 
-banco = sqlite3.connect('faturamento.db')  # Conecta-se ou cria o banco de dados SQLite chamado 'songs.db'.
+banco = sqlite3.connect('faturamento3.db')  # Conecta-se ou cria o banco de dados SQLite chamado 'songs.db'.
 cursor = banco.cursor()              # Cria um objeto de cursor para executar comandos SQL.
 
 
@@ -62,26 +62,26 @@ banco.close()
 # banco.close()
 
 
-# #função para atualizar um dado
-# def atualizar_dado(id_registro, novo_valor, campo):
-#      banco = sqlite3.connect('faturamento3.db') 
-#      cursor = banco.cursor() 
+#função para atualizar um dado
+def atualizar_dado(id_registro, novo_valor, campo):
+     banco = sqlite3.connect('faturamento3.db') 
+     cursor = banco.cursor() 
     
-#     # Define a consulta SQL para atualizar o valor de um campo específico em uma linha com base no ID do registro.
-#     # O f-string (f"UPDATE musicas SET {campo} = ? WHERE id = ?") permite inserir dinamicamente o nome do campo a ser atualizado.
-#      atualizar_conteudo = f"UPDATE vendinhas SET {campo} = ? WHERE id = ?"
+    # Define a consulta SQL para atualizar o valor de um campo específico em uma linha com base no ID do registro.
+    # O f-string (f"UPDATE vendinhas SET {campo} = ? WHERE id = ?") permite inserir dinamicamente o nome do campo a ser atualizado.
+     atualizar_conteudo = f"UPDATE vendinhas SET {campo} = ? WHERE id = ?"
     
-#     # Executa a consulta SQL para atualizar o valor do campo especificado na linha com o ID especificado.
-#     # Os valores a serem substituídos nos marcadores de posição (?) são passados como uma tupla no segundo argumento da função execute.
-#      cursor.execute(atualizar_conteudo, (novo_valor, id_registro))
+    # Executa a consulta SQL para atualizar o valor do campo especificado na linha com o ID especificado.
+    # Os valores a serem substituídos nos marcadores de posição (?) são passados como uma tupla no segundo argumento da função execute.
+     cursor.execute(atualizar_conteudo, (novo_valor, id_registro))
     
-#     # Salva as alterações no banco de dados.
-#      banco.commit()
-#      banco.close()
+    # Salva as alterações no banco de dados.
+     banco.commit()
+     banco.close()
     
-# #chamando a função para atualizar os dados
-# atualizar_dado(1, 'TurmaOn26', 'Name')
-# banco.close()
+#chamando a função para atualizar os dados
+atualizar_dado(1, 'TurmaOn26', 'Name')
+banco.close()
 
 
 
