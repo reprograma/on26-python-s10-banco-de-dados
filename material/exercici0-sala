@@ -1,0 +1,16 @@
+import sqlite3
+
+banco = sqlite3.connect("primeiroBanco.db") #vc pode se conectar a esse banco, por favor? se ele não existir, vc cria ele pra mim?
+
+cursor = banco.cursor()  #com essa variável vamos manipular banco
+
+#aqui pedimos para o cursor criar uma tabela (entre parênteses, nome da coluna e o tipo dela)
+#cursor.execute("CREATE TABLE pessoas (nome text, idade integer, email text)") 
+
+cursor.execute("INSERT INTO pessoas VALUES ('Luísa' , 39, 'lu.soares@email.com')")
+
+banco.commit() #se não der commit ele guarda as informações, mas não executa
+
+cursor.execute("SELECT * FROM pessoas")
+
+print(cursor.fetchall())
