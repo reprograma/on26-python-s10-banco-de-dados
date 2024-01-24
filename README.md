@@ -1,104 +1,51 @@
-<h1 align="center">
-  <img src="assets/reprograma-fundos-claros.png" alt="logo reprograma" width="500">
-</h1>
+## Atividade didática - Curso de Análise de Dados em Python - Zênite Serena - Banco de Dados
 
-# Banco de Dados 🎲
+### Contextualização
 
-Turma Online 26 |Python | Semana 10 | 2023 | Professora Edilene Lopes
+Atividade que fez parte do bootcamp "Python: Fundamentos e Análise de Dados" da [{reprograma}](https://reprograma.com.br/curso-python/), realizado no segundo semestre de 2023. A presente atividade foi realizada na Semana 10 do curso.
 
-### Instruções
-Antes de começar, vamos organizar nosso setup.
-* Fork esse repositório 
-* Clone o fork na sua máquina (Para isso basta abrir o seu terminal e digitar `git clone url-do-seu-repositorio-forkado`)
-* Entre na pasta do seu repositório (Para isso basta abrir o seu terminal e digitar `cd nome-do-seu-repositorio-forkado`)
-* [Add outras intrucoes caso necessario]
+[Repositório no GitHub](https://github.com/zenite-serena/Atividade-Didatica-Banco-de-Dados)
 
-### Resumo
-O que veremos na aula de hoje?
-* [Banco de dados](#tema1)
-* [Conectando com Python](#tema2)
-* [Migrar um arquivo via Sqlite](#tema3)
+Desafio: Manipular dados usando SQLite. Gerar visualizações usando a biblioteca MatPlotLib.
 
-## Conteúdo
-### Tema1 
-1. [O que é banco de dados](#tema1)
-2. [Sql NoSql](#topico2)
-3. [Tabelas](#topico3)
-4. [Chave Primária](#topico4)
-5. [Comandos Sql](#topico5)
+### Objetivos da análise
 
-### Tema2 
-2. [Conectando o banco de dados com Python](#tema2)
-   * [Manipulando o banco via python](#subtopico)
-  
-   
-### Tema3
-3. [Migrar um arquivo csv](#topico1)
+O intuito dessa análise foi comparar as mudanças relativas de temperatura em 3 subsets de países, escolhidos de acordo com critérios geográficos e populacionais.
 
-### Banco de dados 
+Com base no artigo "Change in cooling degree days with global mean temperature rise increasing from 1.5 °C to 2.0 °C", publicado na revista Nature, embora países na África central e subsaariana vem sofrendo e sofrerão com os maiores aumentos em temperatura em termos absolutos, são países no norte da Europa que sofrem e sofrerão com os maiores aumentos em temperatura em termos relativos.
 
-#### O que é um banco de dados
+A partir da análise do banco de dados da FAOSTAT, criamos gráficos que facilitam a visualização destes dados e corroboram o que foi apontado pelo estudo.
 
-É um conjunto de informações que são organizadas em uma estrutura específica para permitir seu armazenamento e recuperação de maneira eficiente. Ele pode ser utilizado em diversos tipos de sistemas, desde aplicações simples até sistemas complexos de grande porte.
-Os primeiros fundamentos de banco de dados relacionais surgiram entre as décadas de 1960 a 1970 pela IBM. Na década de 80, a Oracle, com a permissão da IBM, foi a primeira empresa a desenvolver o banco utilizando o padrão SQL para consulta/escrita como é  conhecido hoje. 
-Após a explosão da web, também conhecida como web 2.0, foi necessário uma alternativa  ao SQL(relacional), assim, a partir de 1998, foi criado o conceito de banco nosql( não relacional ).
+["Change in cooling degree days with global mean temperature rise increasing from 1.5 °C to 2.0 °C"](https://www.nature.com/articles/s41893-023-01155-z)
 
- #### Conectando com Python
-- import sqlite3
-- conn = sqlite3.connect('meu_banco_de_dados.db')
+["Northern Europe faces biggest relative increase in uncomfortable heat and is dangerously unprepared"](https://theconversation.com/northern-europe-faces-biggest-relative-increase-in-uncomfortable-heat-and-is-dangerously-unprepared-new-research-209745)
 
+###	Breve descrição da base de dados
 
-![Exemplo](exemplo.jpg)
+O banco de dados utilizado é referente a mudanças de temperatura, coletado e disponibilizado pelo FAOSTAT (Food and Agriculture Organization of the United Nations) na mudança média de temperatura por país. O banco de dados cobre o período de 1961-2020. Os dados estão disponíveis por mês, estação e ano (considerando anomalias médias anuais, i.e., mudanças de temperatura com respeito a uma climatologia de base, correspondendo ao período de 1951-1980).
 
-### Tabelas e tipos de dados
-#### Comandos SQL
-* [Tipos de comandos](#subtopico1)
-* [Alguns comandos Sql](#Subtopico2)
+[Temperature Change Data](https://www.kaggle.com/datasets/sevgisarac/temperature-change/data)
 
+### Tratamento de dados
 
-##### Tipos de comandos Sql
-DDL, DQL, DML, DCL e TCL.
+Para o tratamento de dados foram criados subsets baseados em regiões geográficas e características populacionais, de modo a facilitar a visualização e processamento de dados.
 
-![Tipos](tipos_ling.png)
+Foram removidas colunas julgadas desnecessárias e dados nulos. Também foram normalizados os valores de temperatura para plotagem do gráfico.
 
-##### Alguns comnandos Sql
-- SELECT
+Para os gráficos, foram escolhidos 1 país de cada subset e os valores correspondentes ao verão dos respectivos hemisférios.
 
-- UPDATE
+### Conclusão
 
-- DELETE
+Os gráficos permitem a fácil visualização de um grave problema, possivelmente o maior desafio que a humanidade já enfrentou.
 
-- INSERT
+O resultado é consistente com o que têm apresentado inúmeras organizações como o IPCC (Intergovernmental Panel on Climate Change) e a NASA (National Aeronautics and Space Administration), que alertam para os perigos da mudança climática impulsionada pela queima de combustíveis fósseis e o efeito estufa.
 
-- WHERE
+Embora os gráficos explicitem uma mudança relativa em temperaturas do norte da Europa, não devemos achar que o problema não será grave também nos trópicos. Uma análise futura poderá fazer uso de dados absolutos e não relativos para o propósito de alerta.
 
+A análise cruzada com outros dados, como aqueles relativos à emissão de CO², podem nos dar uma ideia das desigualdades globais de um problema compartilhado. Fica o alerta de que os países do Sul Global sofrerão os devastadores efeitos de um problema que, historicamente, não é de sua responsabilidade.
 
-### Conexão com Python
-#### Alguns métodos Python
-- cursor = conn.cursor()
-- cursor.execute()
-- conn.commit()
-- conn.close()
+["Which countries are historically responsible for climate change?"](https://www.carbonbrief.org/analysis-which-countries-are-historically-responsible-for-climate-change/)
 
-
-
-
-***
-### Exercícios 
-* [Exercicio para sala](https://github.com/reprograma/on26-python-s10-banco-de-dados/tree/main/exercicios/para-sala)
-* [Exercicio para casa](https://github.com/reprograma/on26-python-s10-banco-de-dados/tree/main/exercicios/para-casa)
-
-### Material da aula 
-
-### Links Úteis
-- [Banco de dados teoria](https://www.oracle.com/br/database/what-is-database/)
-- [Banco de dados teoria](https://rockcontent.com/br/blog/banco-de-dados/)
-- [Sqlite online](https://sqliteonline.com/)
-- [Visualizar sqlite no vscode](https://www.youtube.com/watch?v=bzxZsRPpFQs)
-- [Plataforma Kaggle](https://www.kaggle.com/)
-
-
-<p align="center">
-Desenvolvido com :purple_heart:  
-</p>
-
+<img src="exercicios\para-casa\temp_change_braz.png" width="60%"/>
+<img src="exercicios\para-casa\temp_change_switz.png" width="60%"/>
+<img src="exercicios\para-casa\temp_change_nigeria.png" width="60%"/>
